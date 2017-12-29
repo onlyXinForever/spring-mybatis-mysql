@@ -1,0 +1,16 @@
+2017-12-29 13:45:21.686 [main] INFO  com.drore.dao.split.DynamicDataSourceInterceptor - select user_id, username,password   from tb_user
+2017-12-29 13:45:33.213 [main] INFO com.drore.dao.split.DynamicDataSourceInterceptor - select user_id,username,password   from tb_user
+2017-12-29 13:46:10.948 [main] INFO com.drore.dao.split.DynamicDataSourceInterceptor - select user_id,username,password   from tb_user
+2017-12-29 13:46:25.512 [main] INFO       com.drore.dao.split.DynamicDataSourceInterceptor - select user_id,username,password   from tb_user
+2017-12-29 13:51:03.303 [main] INFO  com.drore.dao.split.DynamicDataSourceInterceptor %PARSER_ERROR[l] - select user_id,username,password   from tb_user
+2017-12-29 13:51:31.184 [main] INFO  com.drore.dao.split.DynamicDataSourceInterceptor -%PARSER_ERROR[l] - select user_id,username,password   from tb_user
+2017-12-29 13:52:50.468 [main] INFO  com.drore.dao.split.DynamicDataSourceInterceptor%PARSER_ERROR[l] - select user_id,username,password   from tb_user
+2017-12-29 13:55:32.293 [main] INFO  com.drore.dao.split.DynamicDataSourceInterceptor%PARSER_ERROR[l] - select user_id,username,password   from tb_user
+2017-12-29 13:56:19.033 [main] INFO  com.drore.dao.split.DynamicDataSourceInterceptor - %PARSER_ERROR[l]select user_id,username,password   from tb_user
+2017-12-29 13:58:28.678 [main] INFO  com.drore.dao.split.DynamicDataSourceInterceptor.intercept:41 - lselect user_id,username,password   from tb_user
+2017-12-29 13:59:01.765 [main] INFO  com.drore.dao.split.DynamicDataSourceInterceptor.intercept:[41] - lselect user_id,username,password   from tb_user
+2017-12-29 14:00:27.471 [main] INFO  com.drore.dao.split.DynamicDataSourceInterceptor.intercept:[41] - select user_id,username,password   from tb_user
+2017-12-29 14:23:07.024 [main] INFO  com.drore.dao.split.DynamicDataSourceInterceptor.intercept:[41] - select user_id,username,password   from tb_user
+2017-12-29 14:23:36.146 [main] INFO  com.drore.dao.split.DynamicDataSourceInterceptor.intercept:[41] - select user_id,username,password   from tb_user
+2017-12-29 14:23:53.845 [main] INFO  com.drore.dao.split.DynamicDataSourceInterceptor.intercept:[41] - select user_id,username,password   from tb_user
+2017-12-29 14:35:02.635 [main] INFO  com.drore.dao.split.DynamicDataSourceInterceptor.intercept:[41] - select user_id,username,password   from tb_user
